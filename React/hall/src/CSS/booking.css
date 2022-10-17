@@ -1,0 +1,17 @@
+.imgg {
+    background-image: url(../Images/908.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.containerrrr {
+    border-radius: 10px;
+    box-shadow: 0 0 30px 0 rgb(4, 4, 4);
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    border: 3px solid #070000;
+    background-color: rgba(176, 191, 187, 0.71);
+}

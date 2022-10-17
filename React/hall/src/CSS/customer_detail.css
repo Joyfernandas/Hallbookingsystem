@@ -1,0 +1,45 @@
+.alll {
+    background-image: url(../Images/123456.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.containerrr {
+    border-radius: 10px;
+    width: 800px;
+    height: 40%;
+    box-shadow: 0 0 50px 0 rgb(4, 4, 4);
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    border: 3px solid #f4f3f3;
+    background-color: rgba(118, 143, 126, 0.71);
+}
+
+.input {
+    border-radius: 8px;
+    background-color: #f5f3f3;
+}
+
+.form_div {
+    height: 50px;
+    position: relative;
+    margin-bottom: 24px;
+}
+
+.form_label {
+    position: absolute;
+    left: 16px;
+    top: 10px;
+    background-color: #fff;
+    color: #80868B;
+    font-size: 16px;
+    transition: .3s;
+    text-transform: uppercase;
+}
+
+/* .second {
+    margin-top: 10px;
+} */

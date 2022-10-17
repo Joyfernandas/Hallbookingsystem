@@ -1,0 +1,51 @@
+#form {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    border: 3px solid #f4f3f3;
+    background-color: rgba(241, 192, 94, 0.71);
+    box-shadow: 0 0 30px 0 rgb(4, 4, 4);
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+b {
+    color: #090200;
+    font-size: larger;
+}
+
+.control-div {
+    padding-left: 50px;
+    width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.creat-lable {
+    text-align: left;
+    width: 50%;
+    margin-top: 30px;
+
+}
+
+.input-style {
+    width: 40%;
+    margin-top: 20px;
+    padding: 2px;
+    border-radius: 7px;
+}
+
+.add {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+#all {
+    background-image: url(../Images/1234.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80%;
+    /* filter: blur(8px); */
+    /* -webkit-filter: blur(8px); */
+}
